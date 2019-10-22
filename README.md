@@ -1,2 +1,2 @@
-# jacksonlabs.github.io
-Website for jacksonlabs
+![Logo](jackson-labs-logo.png)
+
